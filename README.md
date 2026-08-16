@@ -6,21 +6,82 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 14 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (7)
+- [math](#math) (3)
+- [sortings](#sortings) (2)
+- [strings](#strings) (5)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/code_problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
