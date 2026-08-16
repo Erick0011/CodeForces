@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main()
+{
+ 
+    int n, a, b, c, x;
+ 
+    cin >> n;
+    x = 0;
+ 
+    while (n--)
+    {
+        cin >> a >> b >> c;
+        if (a + b + c > 1)
+            x += 1;
+    }
+    cout << x;
+}
