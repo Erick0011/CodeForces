@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 15 |
+| 32 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
@@ -41,6 +41,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### binary search
 
