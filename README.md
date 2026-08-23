@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 15 |
+| 34 | 15 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (19)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -95,6 +95,7 @@
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1433B | [Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1433/B%20-%20Yet%20Another%20Bookshelf/solution.cpp) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1873/D%20-%201D%20Eraser/solution.cpp) |
@@ -165,6 +166,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 
 ### two pointers
 
