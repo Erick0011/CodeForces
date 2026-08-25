@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 15 |
+| 38 | 15 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [implementation](#implementation) (19)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (5)
-- [strings](#strings) (8)
+- [sortings](#sortings) (6)
+- [strings](#strings) (9)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -157,6 +157,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### strings
@@ -171,6 +172,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ### two pointers
 
