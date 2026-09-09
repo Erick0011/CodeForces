@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 15 |
+| 40 | 15 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (14)
-- [implementation](#implementation) (20)
-- [math](#math) (8)
-- [number theory](#number-theory) (2)
+- [implementation](#implementation) (21)
+- [math](#math) (9)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (2)
@@ -123,6 +123,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
 | 1003A | [Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1003/A%20-%20Polycarp's%20Pockets/solution.cpp) |
 | 1433B | [Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1433/B%20-%20Yet%20Another%20Bookshelf/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
@@ -137,6 +138,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
@@ -148,6 +150,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
