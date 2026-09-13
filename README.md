@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [math](#math) (1)
+- [implementation](#implementation) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 
 ### number theory
 
