@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 8 |
 
 ---
 
@@ -14,7 +14,9 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (2)
 - [number theory](#number-theory) (2)
@@ -34,11 +36,23 @@
 | 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### implementation
 
