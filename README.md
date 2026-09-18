@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 8 | 9 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
@@ -44,6 +44,7 @@
 | 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
 | 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 922B | [Magic Forest](https://codeforces.com/contest/922/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/922/B%20-%20Magic%20Forest/solution.cpp) |
 
 ### constructive algorithms
 
