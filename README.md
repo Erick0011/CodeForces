@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 11 |
+| 12 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
@@ -25,6 +26,12 @@
 - [sortings](#sortings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### binary search
 
