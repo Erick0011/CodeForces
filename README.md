@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 12 |
+| 14 | 12 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (6)
 - [math](#math) (3)
 - [number theory](#number-theory) (2)
@@ -68,6 +68,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
+| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### dp
@@ -81,6 +82,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
+| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### implementation
