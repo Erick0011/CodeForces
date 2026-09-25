@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 13 |
+| 18 | 13 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -106,6 +106,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
