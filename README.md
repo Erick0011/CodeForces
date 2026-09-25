@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 13 |
+| 20 | 13 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
-- [math](#math) (6)
+- [implementation](#implementation) (10)
+- [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -91,6 +91,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
@@ -106,6 +107,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
