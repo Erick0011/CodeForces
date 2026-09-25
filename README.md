@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 13 |
+| 19 | 13 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -98,6 +98,7 @@
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
 
 ### math
