@@ -6,145 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 13 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
-- [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (13)
-- [math](#math) (7)
-- [number theory](#number-theory) (2)
-- [sortings](#sortings) (3)
-- [strings](#strings) (5)
+- [implementation](#implementation) (1)
 
 ---
-
-### Uncategorized
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
-| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
-
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
-| 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
-| 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
-
-### bitmasks
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 96B | [Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/B%20-%20Lucky%20Numbers%20(easy)/solution.cpp) |
-| 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
-| 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
-| 922B | [Magic Forest](https://codeforces.com/contest/922/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/922/B%20-%20Magic%20Forest/solution.cpp) |
-| 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
-
-### combinatorics
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
-| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
-| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
-
-### dp
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
-| 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
-| 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
-| 1697B | [Promo](https://codeforces.com/contest/1697/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1697/B%20-%20Promo/solution.cpp) |
-| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
-| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
-| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
-| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
-| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
-| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
-| 146B | [Lucky Mask](https://codeforces.com/contest/146/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/146/B%20-%20Lucky%20Mask/solution.cpp) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
-| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
-| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
-| 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
-| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
-| 1176A | [Divide it!](https://codeforces.com/contest/1176/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1176/A%20-%20Divide%20it!/solution.cpp) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
-| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
-| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
-| 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
-| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
-| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
-| 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
-| 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
-| 1697B | [Promo](https://codeforces.com/contest/1697/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1697/B%20-%20Promo/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
-| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
-| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
-| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Erick0011/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 
 ---
 
