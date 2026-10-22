@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 14 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
@@ -60,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
