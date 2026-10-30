@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 12 |
+| 26 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (4)
-- [data structures](#data-structures) (1)
+- [constructive algorithms](#constructive-algorithms) (5)
+- [data structures](#data-structures) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (10)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
@@ -53,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.cpp) |
 
 ### games
 
@@ -65,6 +67,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -86,6 +89,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
