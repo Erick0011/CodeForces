@@ -1,17 +1,37 @@
-<h2><a href="https://codeforces.com/contest/1999/problem/A" target="_blank" rel="noopener noreferrer">1999A — A+B Again?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | C++23 (GCC 14-64, msys2) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1999A](https://codeforces.com/contest/1999/problem/A) |
-
-## Topics
-`implementation` `math`
-
----
-
-## Problem Statement
-
-_Problem statement could not be retrieved. Please visit the link above._
+#include <bits/stdc++.h>
+ 
+using namespace std;
+ 
+typedef long long ll;
+typedef unsigned long long ull;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
+typedef vector<int> vi;
+typedef vector<ll> vll;
+ 
+#define linhasDeCaos ios_base::sync_with_stdio(false), cin.tie(NULL);
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define sz(x) (int)(x).size()
+#define F first
+#define S second
+#define pb push_back
+ 
+const ll MOD = 1000000007LL;
+const ll INF = 4e18;
+const int INF_INT = 1e9;
+const double EPS = 1e-9;
+ 
+int main()
+{
+    linhasDeCaos;
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cin >> n;
+        cout << (n / 10) + (n % 10) << "
+";
+    }
+}
