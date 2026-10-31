@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 13 |
+| 28 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
@@ -33,6 +33,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
+| 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 
 ### brute force
 
