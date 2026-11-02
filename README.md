@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 14 |
+| 32 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -33,6 +33,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 872B | [Maximum of Maximums of Minimums](https://codeforces.com/contest/872/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/872/B%20-%20Maximum%20of%20Maximums%20of%20Minimums/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 | 100741D | [Xor Sum](https://codeforces.com/contest/100741/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/100741/D%20-%20Xor%20Sum/solution.cpp) |
