@@ -1,10 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-int main()
-{
-    int w;
-    cin >> w;
+int main() {
+    // Creating the variable
+    int w; cin >> w;
+    int result;
+    result = w%2;
  
-    cout << (w % 2 == 0 and w > 2 ? "YES" : "NO");
+    if(result == 0 && w > 2){
+        cout << "Yes";
+    } else{
+        cout << "No";
+    }
+	
 }
