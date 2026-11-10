@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 16 |
+| 44 | 16 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
 - [math](#math) (16)
-- [number theory](#number-theory) (3)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (6)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
@@ -171,6 +171,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 235A | [LCM Challenge](https://codeforces.com/contest/235/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/235/A%20-%20LCM%20Challenge/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
