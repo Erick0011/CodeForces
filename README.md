@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 16 |
+| 45 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (9)
@@ -39,6 +39,7 @@
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 | 100741D | [Xor Sum](https://codeforces.com/contest/100741/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/100741/D%20-%20Xor%20Sum/solution.cpp) |
+| 102267K | [Birthday Puzzle](https://codeforces.com/contest/102267/problem/K) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Erick0011/CodeForces/blob/HEAD/102267/K%20-%20Birthday%20Puzzle/solution.cpp) |
 
 ### binary search
 
